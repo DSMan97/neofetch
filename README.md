@@ -15,4 +15,19 @@ neofetch --config /etc/neofetch/config.conf --ascii_distro _Distro_
 <br>
 _Distro_ (Ubuntu, Docker, SteamOS, etc)
 
-More info in: https://github.com/dylanaraps/neofetch/blob/master/neofetch
+More info in: 
+<br>
+<br>
+Original File:
+<br>
+https://github.com/dylanaraps/neofetch/blob/master/neofetch
+<br>
+<br>
+Documentation:
+<br>
+http://manpages.ubuntu.com/manpages/bionic/en/man1/neofetch.1.html
+<br>
+<br>
+Ascii Color Codes:
+<br>
+https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#256-colors
