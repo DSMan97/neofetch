@@ -9371,7 +9371,7 @@ EOF
         ;;
 
         "SteamOS"*)
-            set_colors 5 7
+            set_colors 33 14 6 6
             read -rd '' ascii_data <<'EOF'
 ${c1}              .,,,,.
         .,'onNMMMMMNNnn',.
