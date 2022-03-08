@@ -14,3 +14,5 @@ neofetch --config /etc/neofetch/config.conf --ascii_distro _Distro_
 </code>
 <br>
 _Distro_ (Ubuntu, Docker, SteamOS, etc)
+
+More info in: https://github.com/dylanaraps/neofetch/blob/master/neofetch
