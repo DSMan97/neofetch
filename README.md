@@ -31,3 +31,7 @@ http://manpages.ubuntu.com/manpages/bionic/en/man1/neofetch.1.html
 Ascii Color Codes:
 <br>
 https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#256-colors
+<br>
+Conver IMG to ASCII ART:
+<br>
+https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
