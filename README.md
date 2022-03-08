@@ -33,6 +33,11 @@ Ascii Color Codes:
 https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#256-colors
 <br>
 <br>
+Neofetch with custom Image:
+<br>
+https://www.linuxfordevices.com/tutorials/linux/neofetch-in-linux
+<br>
+<br>
 Conver IMG to ASCII ART:
 <br>
 https://manytools.org/hacker-tools/convert-images-to-ascii-art/go/
