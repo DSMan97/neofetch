@@ -1,5 +1,7 @@
 # neofetch
-Neofetch Custom with Docker Logo Added
+Neofetch Custom Logos Added:
+ - Docker  Logo
+ - SteamDeck Logo
 
 ### Installation
 1. Copy neofetch to <code>/usr/bin</code>
@@ -13,7 +15,7 @@ Write in <code>~/.bashrc</code> the following code:
 neofetch --config /etc/neofetch/config.conf --ascii_distro _Distro_
 </code>
 <br>
-_Distro_ (Ubuntu, Docker, SteamOS, etc)
+_Distro_ (Ubuntu, Docker, SteamOS, SteamDeck, etc)
 
 More info in: 
 <br>
