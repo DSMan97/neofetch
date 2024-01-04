@@ -1,12 +1,39 @@
 # neofetch
 Neofetch Custom Logos Added:
  - Docker  Logo
+ - Kubernetes Logo
  - SteamDeck Logo
+ - Jenkins Logo
 
 ### Installation
 1. Copy neofetch to <code>/usr/bin</code>
 2. In <code>/usr/bin</code> run <code>chmod 715 neofetch</code>
-3. Download config.conf and copy to <code>/etc/neofetch/config.conf</code>
+3. Download config.conf and copy to <code>/etc/neofetch/config.conf</code> or <code>$HOME/.config/neofetch/config.conf</code>
+
+### Optional config file
+If you are a cloud developer you can download the config.conf file that are in https://github.com/DSMan97/neofetch/config_cloud_developers<br>
+That file print the versions of the following tools:
+- Google Cloud SDK (gcloud and gsutil)
+- Azure Cli
+- Terraform
+- Docker
+<br>
+**Important!:** Review the config file and modify, comment and changes the paths with your installations path of that tools
+- Check the lines from 61 to 83
+#### Example of code
+```
+    echo ""
+    echo "                              Cloud Tools"
+    info "GCP Login" gcloud_account
+    info "GCP ProjectId" gcloud_project
+    info "gcloud version" gcloud_version
+    info "gsutil version" gsutil_version
+    echo ""
+    info "Docker" docker_version
+    info "Terraform" terraform_version
+    info "Azure Cli" azurecli_version
+```
+![img.png](config_cloud_developers/img.png)
 
 ### Execution
 Write in <code>~/.bashrc</code> the following code:
