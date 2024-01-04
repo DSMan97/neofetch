@@ -3,7 +3,7 @@ Neofetch Custom Logos Added:
  - Docker  Logo
  - Kubernetes Logo
  - SteamDeck Logo
- - Jenkins Logo
+ - Jenkins Logo (in process)
 
 ### Installation
 1. Copy neofetch to <code>/usr/bin</code>
