@@ -11,14 +11,16 @@ Neofetch Custom Logos Added:
 3. Download config.conf and copy to <code>/etc/neofetch/config.conf</code> or <code>$HOME/.config/neofetch/config.conf</code>
 
 ### Optional config file
-If you are a cloud developer you can download the config.conf file that are in https://github.com/DSMan97/neofetch/config_cloud_developers<br>
+If you are a cloud developer you can download the config.conf file that are in [config_cloud_developers](https://github.com/DSMan97/neofetch/tree/main/config_cloud_developers)<br>
 That file print the versions of the following tools:
 - Google Cloud SDK (gcloud and gsutil)
 - Azure Cli
 - Terraform
 - Docker
 <br>
+
 **Important!:** Review the config file and modify, comment and changes the paths with your installations path of that tools
+
 - Check the lines from 61 to 83
 #### Example of code
 ```
@@ -33,7 +35,7 @@ That file print the versions of the following tools:
     info "Terraform" terraform_version
     info "Azure Cli" azurecli_version
 ```
-![img.png](config_cloud_developers/img.png)
+![img.png](https://github.com/DSMan97/neofetch/blob/main/config_cloud_developers/img.png?raw=true)
 
 ### Execution
 Write in <code>~/.bashrc</code> the following code:
